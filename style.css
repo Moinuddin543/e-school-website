@@ -1,0 +1,154 @@
+.brand-logo{
+ width: 300px;
+ margin-top:5px;   
+}
+
+body{
+  font-family: "Poppins", sans-serif;
+  background: #E5E5E5;
+  font-size:16px;
+  line-height: 30px;
+  font-weight:400;
+  font-style:normal;
+}
+
+p{
+  margin-top:25px;
+  margin-bottom: 0;
+}
+
+
+.btn{
+border-radius: 30px;
+}
+
+ .top-container{
+    background-color:#F0FFF0;   
+    padding: 10px 20px 20px 20px;
+   
+  }
+  .subheading{
+    color:#fd511a;
+    font-weight:500;
+    font-size:20px;
+  }
+  .heading-text h1{
+    font-weight:bold;
+    font-size:48px;
+    line-height:70px;
+    color:#000000;
+    margin-bottom: 20px;
+
+  }
+ 
+.illustration-image{
+    max-width: 100%;
+    height:auto;
+    margin-bottom:100px; 
+    
+}
+.catagories-item{
+  /* background: #f8fffb; */
+	border-radius: 10px;
+	max-width: 270px;
+	min-height: 270px;
+	margin:  0 auto;
+  text-align: center;
+	padding: 20px;
+  align-items: center;
+  justify-content: center;
+  cursor:pointer;
+}
+
+.catagories-item span{
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+}
+
+.catagories-item h4 {
+  font-weight: 500;
+  font-size:20px;
+  line-height:36px;
+  margin-bottom: 2px;
+}
+
+.catagories-item  img{
+  background-color:#F0FFF0;
+ 
+}
+.catagories-item:hover{
+ box-shadow:10px 20px 40px rgba(0, 0, 0, 0.1);
+ border-radius: 10px;
+ 
+}
+.card{
+  border: none;
+  border-radius: 10px;
+  box-shadow:10px 10px 40px whitesmoke;
+}
+.img-icon{
+  width: 20px;
+}
+.card-footer{
+  background-color:white;
+  border-top: none;
+}
+h3.headline{
+  text-align: center;
+  padding-top:10px;
+  margin-bottom:50px;
+  font-weight: bold;
+  font-size:36px;
+}
+.testimonial-container{
+  margin-top:20px;
+  padding-bottom: 20px;
+}
+.testimonial-container .text{
+  margin-left: 50px;
+  width: 580px;
+  height: 90px;
+  color:000000, 100%;
+  font:Poppins;
+  font-weight: normal;
+  font-size:16px;
+  line-height:30px;
+
+}
+
+.footer{
+  background:#282531;
+  color:white;
+  margin-top:50px;
+  
+}
+ .footer-content ul{
+   margin: 0;
+   padding: 0;
+ }
+ 
+
+.footer-content h4{
+  font-size:20px;
+  font-weight: 600;
+  margin: 0 0 8 px;
+
+}
+.footer-content{
+  margin-left: 10px;
+}
+ ul li{
+  list-style: none;
+  font-size:18px;
+  line-height: bold;
+  
+}
+
+.footer-content a {
+   color:white;
+   font-weight: 300px;
+}
+.footer-content a:hover{
+   color:green;
+}
